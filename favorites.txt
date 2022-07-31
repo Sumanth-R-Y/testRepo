@@ -1,3 +1,10 @@
+foods:
 idly
 pizza
 cheese
+
+movies:
+gangleader
+Jurassic park
+Golden Eye
+
