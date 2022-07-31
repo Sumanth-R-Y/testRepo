@@ -1,5 +1,8 @@
 foods:
 idly
+Dosa
+Poori
+Pittu
 pizza
 cheese
 
